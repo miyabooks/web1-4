@@ -1,45 +1,20 @@
 @charset "UTF-8"; 
 body{
-    background-color:#1e90ff;/*背景色を変える*/
     background-image: url(IMC_5443.JPG);/*背景画像を変える*/
-    background-repeat: repeat-x;/*横方向だけ繰り返し*/
 }
 h1 span{
     font-size: 1.75em;
     color:#0000ff;
 }
 h2{
-    font-size: 1.25em;
-    color:#00bfff;
+    background-color:#add8e6;
+    font-weight:bold;
     border: #94c8b1 1px dotted; /* 境界線 */
-    border-left:#d0e35b 10px solid;
-    margin-bottom: 0; /* 隣り合う要素との間隔 */
-    padding: 5px 20px;
 }
-h2:first-letter
-p{
-    font-size: 0.8em;
-    color:#87ceeb;
-}
-li{
-    font-size: 0.8em;
-    background-color:;/*段落の文字の背景の色だけ変わる*/
-    color:#00ffff;
-}
-a{
-    color:#191970;
-}
-a{
-    color:#4169e1;/*マウスが乗った時だけ特別な色*/
-}
+h2:first-letter{font-size:1.75em;}
 #lead{
-    border-top: #6fbb9a 1px dotted;
-….
-    text-align: center;
+    color:#afeeee;
 }
-
-p. greeting{
-    border-top: #6fbb9a 1px dotted;
-….
-    text-align: center;
+.greeting{
+    color:#40e0d0;
 }
