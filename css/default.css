@@ -8,7 +8,7 @@ h1 span{
     font-size: 1.75em;
     color:#0000ff;
 }
-h2:first-letter{
+h2{
     font-size: 1.25em;
     color:#00bfff;
     border: #94c8b1 1px dotted; /* 境界線 */
@@ -16,6 +16,7 @@ h2:first-letter{
     margin-bottom: 0; /* 隣り合う要素との間隔 */
     padding: 5px 20px;
 }
+h2:first-letter
 p{
     font-size: 0.8em;
     color:#87ceeb;
