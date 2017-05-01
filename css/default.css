@@ -1,6 +1,8 @@
 @charset "UTF-8"; 
 body{
     background-color:#1e90ff;/*背景色を変える*/
+    background-image: url(IMC_5443.JPG);/*背景画像を変える*/
+    background-repeat: repeat-x;/*横方向だけ繰り返し*/
 }
 h1 span{
     font-size: 1.75em;
